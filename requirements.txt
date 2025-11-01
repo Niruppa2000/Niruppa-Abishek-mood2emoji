@@ -1,0 +1,5 @@
+streamlit
+textblob
+nltk
+
+# If you deploy to Streamlit Cloud, it will install these automatically.
